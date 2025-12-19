@@ -1,0 +1,681 @@
+mov arr[1] 0xf3
+mov arr[2] 0x71
+mov arr[3] 0xff
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xc1
+mov arr[2] 0x1
+mov arr[3] 0xf5
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x26
+mov arr[2] 0x20
+mov arr[3] 0x3f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x80
+mov arr[2] 0x0
+mov arr[3] 0xe5
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x97
+mov arr[2] 0x10
+mov arr[3] 0xb7
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xf8
+mov arr[2] 0x60
+mov arr[3] 0xfc
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x7b
+mov arr[2] 0x30
+mov arr[3] 0x7b
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x25
+mov arr[2] 0x24
+mov arr[3] 0x65
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x2a
+mov arr[2] 0x22
+mov arr[3] 0x3a
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xf8
+mov arr[2] 0x60
+mov arr[3] 0xf9
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xe0
+mov arr[2] 0x60
+mov arr[3] 0xe3
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x58
+mov arr[2] 0x18
+mov arr[3] 0x79
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xdb
+mov arr[2] 0x11
+mov arr[3] 0xff
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x98
+mov arr[2] 0x10
+mov arr[3] 0xbf
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x3e
+mov arr[2] 0x22
+mov arr[3] 0x7e
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x1e
+mov arr[2] 0x4
+mov arr[3] 0x7f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xec
+mov arr[2] 0x24
+mov arr[3] 0xff
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xfa
+mov arr[2] 0x38
+mov arr[3] 0xfb
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x35
+mov arr[2] 0x35
+mov arr[3] 0x37
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xe0
+mov arr[2] 0x60
+mov arr[3] 0xe2
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x48
+mov arr[2] 0x40
+mov arr[3] 0x6d
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x0
+mov arr[2] 0x0
+mov arr[3] 0x66
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x5d
+mov arr[2] 0x15
+mov arr[3] 0x7f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xdf
+mov arr[2] 0x18
+mov arr[3] 0xff
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xc7
+mov arr[2] 0x0
+mov arr[3] 0xff
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x64
+mov arr[2] 0x64
+mov arr[3] 0x64
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xbc
+mov arr[2] 0x24
+mov arr[3] 0xfe
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x75
+mov arr[2] 0x31
+mov arr[3] 0x75
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xd
+mov arr[2] 0x0
+mov arr[3] 0x3f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xa1
+mov arr[2] 0x20
+mov arr[3] 0xb5
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xcc
+mov arr[2] 0x4
+mov arr[3] 0xfc
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x4c
+mov arr[2] 0x44
+mov arr[3] 0x6c
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x9b
+mov arr[2] 0x0
+mov arr[3] 0xff
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x3d
+mov arr[2] 0x35
+mov arr[3] 0x3f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xc0
+mov arr[2] 0x40
+mov arr[3] 0xe4
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x3f
+mov arr[2] 0x38
+mov arr[3] 0x3f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x74
+mov arr[2] 0x34
+mov arr[3] 0x77
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x44
+mov arr[2] 0x0
+mov arr[3] 0x77
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xfb
+mov arr[2] 0x61
+mov arr[3] 0xfb
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xe6
+mov arr[2] 0x24
+mov arr[3] 0xf7
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x2b
+mov arr[2] 0x23
+mov arr[3] 0x6b
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x9d
+mov arr[2] 0x0
+mov arr[3] 0xff
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xfb
+mov arr[2] 0x31
+mov arr[3] 0xfb
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x27
+mov arr[2] 0x21
+mov arr[3] 0x3f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xd5
+mov arr[2] 0x11
+mov arr[3] 0xfd
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x45
+mov arr[2] 0x0
+mov arr[3] 0x7d
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xe7
+mov arr[2] 0x62
+mov arr[3] 0xe7
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xd
+mov arr[2] 0x8
+mov arr[3] 0x3d
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x7f
+mov arr[2] 0x64
+mov arr[3] 0x7f
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x21
+mov arr[2] 0x20
+mov arr[3] 0x67
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x99
+mov arr[2] 0x10
+mov arr[3] 0xbd
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xd9
+mov arr[2] 0x41
+mov arr[3] 0xf9
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x40
+mov arr[2] 0x40
+mov arr[3] 0x66
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xf2
+mov arr[2] 0x32
+mov arr[3] 0xf7
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xa8
+mov arr[2] 0x20
+mov arr[3] 0xb9
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xbe
+mov arr[2] 0x32
+mov arr[3] 0xbe
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xae
+mov arr[2] 0x22
+mov arr[3] 0xee
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x60
+mov arr[2] 0x60
+mov arr[3] 0x62
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xec
+mov arr[2] 0x60
+mov arr[3] 0xed
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xc4
+mov arr[2] 0x0
+mov arr[3] 0xf7
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x57
+mov arr[2] 0x45
+mov arr[3] 0x77
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x98
+mov arr[2] 0x10
+mov arr[3] 0xba
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0xb8
+mov arr[2] 0x30
+mov arr[3] 0xbc
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x30
+mov arr[2] 0x20
+mov arr[3] 0x73
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x39
+mov arr[2] 0x20
+mov arr[3] 0x7b
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x51
+mov arr[2] 0x51
+mov arr[3] 0x7b
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x4
+mov arr[2] 0x0
+mov arr[3] 0x4c
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[1] 0x14
+mov arr[2] 0x4
+mov arr[3] 0x54
+pop stack input to arr[0]
+and arr[4], arr[0] arr[1]
+xor arr[5], arr[2] arr[4]
+or arr[7], arr[5] arr[7]
+or arr[4], arr[0] arr[1]
+xor arr[5], arr[3] arr[4]
+or arr[7], arr[5] arr[7]
+mov arr[0] arr[7]
